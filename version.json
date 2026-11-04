@@ -1,13 +1,13 @@
 {
   "version": "1.0.1",
-  "title": "Â¡ActualizaciÃ³n de Prueba v1.0.1!",
+  "title": "\u00a1Actualizaci\u00f3n de Prueba v1.0.1!",
   "releaseDate": "2026-11-04",
-  "description": "Prueba exitosa del sistema de actualizaciones automÃ¡ticas en caliente.",
+  "description": "Prueba exitosa del sistema de actualizaciones autom\u00e1ticas en caliente.",
   "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.0.1/Programa.exe",
   "changelog": [
-    "DetecciÃ³n automÃ¡tica en segundo plano al iniciar",
+    "Detecci\u00f3n autom\u00e1tica en segundo plano al iniciar",
     "Descarga con barra de progreso en tiempo real",
     "Reemplazo seguro en caliente sin perder datos locales",
-    "Aviso persistente en cada sesiÃ³n hasta que se actualice"
+    "Aviso persistente en cada sesi\u00f3n hasta que se actualice"
   ]
 }
