@@ -1,13 +1,13 @@
 {
-  "version": "1.0.2",
-  "title": "Versi\u00f3n 1.0.2 Blindada (Anti-esc\u00e1ner)",
+  "version": "1.0.3",
+  "title": "Versi\u00f3n 1.0.3 Blindada (Anti-esc\u00e1ner)",
   "releaseDate": "2026-11-04",
-  "description": "Versi\u00f3n protegida con ofuscaci\u00f3n profunda y cifrado de cadenas anti-ingenier\u00eda inversa.",
-  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.0.2/Programa.exe",
+  "description": "Nueva versi\u00f3n protegida contra esc\u00e1neres e IAs con descarga directa en caliente.",
+  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.0.3/Programa.exe",
   "changelog": [
-    "Ofuscaci\u00f3n profunda de c\u00f3digo y clases (Anti-IA)",
-    "Cifrado din\u00e1mico de textos, claves y URLs sensibles",
-    "Supresi\u00f3n de decompilaci\u00f3n ILDASM y desensambladores",
-    "Firma digital Authenticode verificada y 100% portable"
+    "Blindaje total anti-esc\u00e1neres y anti-IAs (Zero-Knowledge)",
+    "Claves y licencias aisladas en la nube",
+    "Ofuscaci\u00f3n profunda de clases y cifrado de cadenas",
+    "Actualizaci\u00f3n autom\u00e1tica en caliente con reinicio seguro"
   ]
 }
