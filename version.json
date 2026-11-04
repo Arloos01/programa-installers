@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "title": "VersiÃ³n 1.0.0 Oficial",
+  "releaseDate": "2026-11-04",
+  "description": "Lanzador e Instalador Portable 100% nativo con arquitectura Web Installer y modo de alta velocidad.",
+  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.0.0/Programa.exe",
+  "changelog": [
+    "Arquitectura Web Installer: instaladores en la nube descargados bajo demanda.",
+    "Portabilidad estricta: cero rastros en registros ni carpetas de Windows.",
+    "ConexiÃ³n ultrarrÃ¡pida paralela (Happy Eyeballs) evitando bloqueos de CDN.",
+    "Firmado digitalmente por Carlos Enrique Barros Castro."
+  ]
+}
