@@ -1,13 +1,13 @@
 {
   "version": "1.0.1",
-  "title": "\u00a1Actualizaci\u00f3n de Prueba v1.0.1!",
+  "title": "Versi\u00f3n 1.0.1 Oficial",
   "releaseDate": "2026-11-04",
-  "description": "Prueba exitosa del sistema de actualizaciones autom\u00e1ticas en caliente.",
+  "description": "Lanzador e Instalador Portable 100% nativo con sistema autom\u00e1tico de actualizaciones en caliente.",
   "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.0.1/Programa.exe",
   "changelog": [
     "Detecci\u00f3n autom\u00e1tica en segundo plano al iniciar",
-    "Descarga con barra de progreso en tiempo real",
-    "Reemplazo seguro en caliente sin perder datos locales",
-    "Aviso persistente en cada sesi\u00f3n hasta que se actualice"
+    "Notificaci\u00f3n modal flotante con barra de descarga en tiempo real",
+    "Reemplazo seguro en caliente con reinicio autom\u00e1tico",
+    "Portabilidad 100% estricta y conservaci\u00f3n total de datos locales"
   ]
 }
