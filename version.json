@@ -1,13 +1,13 @@
 {
-  "version": "1.0.0",
-  "title": "VersiÃ³n 1.0.0 Oficial",
+  "version": "1.0.1",
+  "title": "Â¡ActualizaciÃ³n de Prueba v1.0.1!",
   "releaseDate": "2026-11-04",
-  "description": "Lanzador e Instalador Portable 100% nativo con arquitectura Web Installer y modo de alta velocidad.",
-  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.0.0/Programa.exe",
+  "description": "Prueba exitosa del sistema de actualizaciones automÃ¡ticas en caliente.",
+  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.0.1/Programa.exe",
   "changelog": [
-    "Arquitectura Web Installer: instaladores en la nube descargados bajo demanda.",
-    "Portabilidad estricta: cero rastros en registros ni carpetas de Windows.",
-    "ConexiÃ³n ultrarrÃ¡pida paralela (Happy Eyeballs) evitando bloqueos de CDN.",
-    "Firmado digitalmente por Carlos Enrique Barros Castro."
+    "DetecciÃ³n automÃ¡tica en segundo plano al iniciar",
+    "Descarga con barra de progreso en tiempo real",
+    "Reemplazo seguro en caliente sin perder datos locales",
+    "Aviso persistente en cada sesiÃ³n hasta que se actualice"
   ]
 }
