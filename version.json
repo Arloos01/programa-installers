@@ -1,15 +1,15 @@
 {
     "changelog":  [
-                      "Nuevo cuadro en catalogo de Programas: Asistencia Remota hacia lbbog002",
-                      "Creacion automatica de acceso directo .rdp en el Escritorio con 1 clic",
-                      "Opciones avanzadas: Servidor configurado en \u0027Conectar y no avisarme\u0027",
-                      "Recursos locales: Unidades de disco locales seleccionadas automaticamente",
-                      "Sincronizacion con Default.rdp del sistema y registro MRU",
-                      "Codigo C# modular, 100% portable y firmado digitalmente"
+                      "Nuevo cuadro en catalogo de Programas: Firewall Remoto",
+                      "Activacion automatica de Enrutamiento y acceso remoto (Dominio, Privada, Publica)",
+                      "Activacion automatica de Escritorio remoto y WebSocket (Dominio, Privada, Publica)",
+                      "Deteccion en tiempo real del estado de las reglas en el Firewall de Windows",
+                      "Boton con acceso directo para abrir el panel de aplicaciones permitidas del sistema",
+                      "Codigo 100% portable, ofuscacion profunda y firma digital Authenticode"
                   ],
-    "version":  "1.0.6",
-    "description":  "Nueva version con modulo integrado de Asistencia Remota hacia lbbog002, configuracion avanzada automatica de servidor y unidades compartidas.",
-    "downloadUrl":  "https://github.com/Arloos01/programa-installers/releases/download/v1.0.6/Programa.exe",
+    "version":  "1.0.7",
+    "description":  "Nueva version con modulo de activacion automatica de Firewall de Windows Defender para Enrutamiento, Escritorio Remoto y WebSocket en Dominio, Privada y Publica.",
+    "downloadUrl":  "https://github.com/Arloos01/programa-installers/releases/download/v1.0.7/Programa.exe",
     "releaseDate":  "2026-11-05",
-    "title":  "Version 1.0.6 - Acceso Directo a Asistencia Remota y Conexion Automatica"
+    "title":  "Version 1.0.7 - Modulo Firewall Remoto y Permisos Automaticos"
 }
