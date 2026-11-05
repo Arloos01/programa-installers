@@ -1,15 +1,15 @@
 {
-  "version": "1.0.5",
-  "title": "Versi\u00f3n 1.0.5 - Nuevo Logo Oficial y Alta Resoluci\u00f3n",
-  "releaseDate": "2026-11-05",
-  "description": "Nueva versi\u00f3n con el nuevo icono oficial en alta resoluci\u00f3n, integrado en la ventana, barra de tareas y ejecutable.",
-  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.0.5/Programa.exe",
-  "changelog": [
-    "Nuevo icono oficial multi-resoluci\u00f3n ampliado (+38% de escala visual)",
-    "Integraci\u00f3n del logotipo en ventana, barra de tareas y cabecera lateral",
-    "Persistencia autom\u00e1tica del tama\u00f1o y posici\u00f3n de ventana",
-    "Triple capa para activaci\u00f3n oficial de Office 2016",
-    "Blindaje continuo contra descompilaci\u00f3n y an\u00e1lisis externo",
-    "Actualizaci\u00f3n directa en caliente 100% portable"
-  ]
+    "changelog":  [
+                      "Nuevo cuadro en catalogo de Programas: Asistencia Remota hacia lbbog002",
+                      "Creacion automatica de acceso directo .rdp en el Escritorio con 1 clic",
+                      "Opciones avanzadas: Servidor configurado en \u0027Conectar y no avisarme\u0027",
+                      "Recursos locales: Unidades de disco locales seleccionadas automaticamente",
+                      "Sincronizacion con Default.rdp del sistema y registro MRU",
+                      "Codigo C# modular, 100% portable y firmado digitalmente"
+                  ],
+    "version":  "1.0.6",
+    "description":  "Nueva version con modulo integrado de Asistencia Remota hacia lbbog002, configuracion avanzada automatica de servidor y unidades compartidas.",
+    "downloadUrl":  "https://github.com/Arloos01/programa-installers/releases/download/v1.0.6/Programa.exe",
+    "releaseDate":  "2026-11-05",
+    "title":  "Version 1.0.6 - Acceso Directo a Asistencia Remota y Conexion Automatica"
 }
