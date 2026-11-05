@@ -1,13 +1,14 @@
 {
-  "version": "1.0.3",
-  "title": "Versi\u00f3n 1.0.3 Blindada (Anti-esc\u00e1ner)",
-  "releaseDate": "2026-11-04",
-  "description": "Nueva versi\u00f3n protegida contra esc\u00e1neres e IAs con descarga directa en caliente.",
-  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.0.3/Programa.exe",
+  "version": "1.0.4",
+  "title": "Versi\u00f3n 1.0.4 - Memoria de Tama\u00f1o y Blindaje Total",
+  "releaseDate": "2026-11-05",
+  "description": "Nueva versi\u00f3n con memoria autom\u00e1tica de tama\u00f1o de ventana, activaci\u00f3n perfeccionada de Office y blindaje anti-esc\u00e1ner.",
+  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.0.4/Programa.exe",
   "changelog": [
-    "Blindaje total anti-esc\u00e1neres y anti-IAs (Zero-Knowledge)",
-    "Claves y licencias aisladas en la nube",
-    "Ofuscaci\u00f3n profunda de clases y cifrado de cadenas",
-    "Actualizaci\u00f3n autom\u00e1tica en caliente con reinicio seguro"
+    "Memoria autom\u00e1tica de tama\u00f1o, posici\u00f3n y estado de ventana",
+    "Triple capa garantizada para activaci\u00f3n de Office 2016",
+    "Validaci\u00f3n estricta anti-errores en scripts OSPP",
+    "Blindaje continuo contra esc\u00e1neres e ingenier\u00eda inversa IA",
+    "Actualizaci\u00f3n directa en caliente sin p\u00e9rdida de configuraciones"
   ]
 }
