@@ -1,15 +1,16 @@
 {
     "changelog":  [
-                      "Nuevo cuadro en catalogo de Programas: Firewall Remoto",
-                      "Activacion automatica de Enrutamiento y acceso remoto (Dominio, Privada, Publica)",
-                      "Activacion automatica de Escritorio remoto y WebSocket (Dominio, Privada, Publica)",
-                      "Deteccion en tiempo real del estado de las reglas en el Firewall de Windows",
-                      "Boton con acceso directo para abrir el panel de aplicaciones permitidas del sistema",
+                      "Nuevo cuadro en catalogo de Programas: AnyDesk Portable",
+                      "Modo portable 100% estricto: ejecucion directa sin instalador ni residuos en el sistema",
+                      "Boton para crear o actualizar acceso directo en el Escritorio en un solo clic",
+                      "Almacenamiento permanente en ./data/Programas/AnyDesk.exe para modo USB",
+                      "Descarga oficial directa con barra de progreso en tiempo real",
+                      "Reordenamiento persistente guardado en config/programas_order.json",
                       "Codigo 100% portable, ofuscacion profunda y firma digital Authenticode"
                   ],
-    "version":  "1.0.7",
-    "description":  "Nueva version con modulo de activacion automatica de Firewall de Windows Defender para Enrutamiento, Escritorio Remoto y WebSocket en Dominio, Privada y Publica.",
-    "downloadUrl":  "https://github.com/Arloos01/programa-installers/releases/download/v1.0.7/Programa.exe",
-    "releaseDate":  "2026-11-05",
-    "title":  "Version 1.0.7 - Modulo Firewall Remoto y Permisos Automaticos"
+    "version":  "1.0.8",
+    "description":  "Nueva version con modulo de AnyDesk Portable, ejecucion directa sin instalacion y acceso directo en el Escritorio.",
+    "downloadUrl":  "https://github.com/Arloos01/programa-installers/releases/download/v1.0.8/Programa.exe",
+    "releaseDate":  "2026-11-06",
+    "title":  "Version 1.0.8 - Modulo AnyDesk Portable y Acceso Directo"
 }
