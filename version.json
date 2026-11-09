@@ -1,16 +1,17 @@
 {
-    "changelog":  [
-                      "Nuevo cuadro en catalogo de Programas: AnyDesk Portable",
-                      "Modo portable 100% estricto: ejecucion directa sin instalador ni residuos en el sistema",
-                      "Boton para crear o actualizar acceso directo en el Escritorio en un solo clic",
-                      "Almacenamiento permanente en ./data/Programas/AnyDesk.exe para modo USB",
-                      "Descarga oficial directa con barra de progreso en tiempo real",
-                      "Reordenamiento persistente guardado en config/programas_order.json",
-                      "Codigo 100% portable, ofuscacion profunda y firma digital Authenticode"
-                  ],
-    "version":  "1.0.8",
-    "description":  "Nueva version con modulo de AnyDesk Portable, ejecucion directa sin instalacion y acceso directo en el Escritorio.",
-    "downloadUrl":  "https://github.com/Arloos01/programa-installers/releases/download/v1.0.8/Programa.exe",
-    "releaseDate":  "2026-11-06",
-    "title":  "Version 1.0.8 - Modulo AnyDesk Portable y Acceso Directo"
+  "version": "1.1.1",
+  "title": "Versión 1.1.1 - Optimización Windows 11 y Memoria Virtual Proporcional",
+  "releaseDate": "2026-11-09",
+  "description": "Corrección completa de efectos visuales en Windows 11, asignación dinámica y proporcional de memoria virtual (1:1 de RAM), y limpieza segura de temporales.",
+  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.1.1/Programa.exe",
+  "changelog": [
+    "Corrección de Efectos Visuales en Windows 11: sincronización de subclaves Explorer VisualEffects (DefaultApplied/DefaultValue) y desactivación de transparencias nativas",
+    "Memoria Virtual Dinámica Proporcional: Asignación 1:1 de acuerdo a la memoria RAM real detectada (16 GB RAM = 16384 MB fijos, 8 GB RAM = 8192 MB fijos) en lugar de 4096 MB estáticos",
+    "Nueva tarjeta de Limpieza de Disco y Temporales Seguros en Rendimiento con soporte para Windows 10 y Windows 11",
+    "Resolución física nativa de carpetas reales de Windows omitiendo redirecciones locales de portabilidad",
+    "Doble fase de vaciado seguro: Modo directo de usuario y modo elevado en memoria para residuos de instaladores",
+    "Vaciado de caché de Windows Update deteniendo y reiniciando wuauserv limpiamente",
+    "Protección estricta de carpetas Prefetch e Installer y preservación de carpetas raíz maestras",
+    "Transición suave y fluida por desplazamiento entre secciones de la aplicación"
+  ]
 }
