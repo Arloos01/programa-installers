@@ -1,15 +1,14 @@
 {
-  "version": "1.1.3",
-  "title": "Versión 1.1.3 - Fondo Espacial Animado GPU, Dashboard Bento y Optimización Win 11",
+  "version": "1.1.4",
+  "title": "Versión 1.1.4 - Carpeta Oculta en Documentos (Win 10/11), Fondo Espacial Animado y Dashboard Bento",
   "releaseDate": "2026-11-10",
-  "description": "Nuevo fondo cósmico animado en GPU con movimiento difuminado claro y estrellas parallax (0 KB extra), Dashboard Bento interactivo en Inicio y optimizaciones Windows 10/11.",
-  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.1.3/Programa.exe",
+  "description": "Unificación de carpeta oculta en Documentos (Documents\\Programa) para Windows 10 y 11 sin dejar carpetas visibles junto al ejecutable, fondo cósmico animado por GPU y Dashboard Bento.",
+  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.1.4/Programa.exe",
   "changelog": [
-    "Nuevo Fondo Espacial Animado por GPU (DirectX) con 4 nebulosas difuminadas claras en movimiento continuo y 0% consumo de CPU",
-    "Capas Parallax de estrellas con halo difuminado y esferas bokeh cósmicas flotantes (compatible con Tema Oscuro y Claro)",
-    "Nuevo Dashboard Bento 2x2 en Inicio con accesos directos a Office, Programas y Rendimiento",
-    "Insignia de Autor integrada directamente en la barra de navegación superior flotante (Dock)",
-    "Corrección de Efectos Visuales en Windows 11 y Memoria Virtual Proporcional 1:1 según la RAM física instalada",
-    "Limpieza segura de temporales reales en Windows 10 y Windows 11 protegiendo Prefetch e Installer"
+    "Almacenamiento interno unificado en una única carpeta oculta dentro de Documentos (Documents\\Programa) en Windows 10 y Windows 11",
+    "Migración y limpieza automática de carpetas sueltas (data, config, cache, logs, temp, ProgramaData) junto al ejecutable",
+    "Fondo Espacial Animado por GPU (DirectX) con nebulosas difuminadas claras en movimiento y estrellas parallax (0% CPU)",
+    "Dashboard Bento 2x2 en Inicio con accesos directos a Office, Programas y Rendimiento",
+    "Corrección de Efectos Visuales en Windows 11 y Memoria Virtual Proporcional 1:1 según la RAM física instalada"
   ]
 }
