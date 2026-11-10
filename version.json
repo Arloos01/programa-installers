@@ -1,14 +1,14 @@
 {
-  "version": "1.1.4",
-  "title": "Versión 1.1.4 - Carpeta Oculta en Documentos (Win 10/11), Fondo Espacial Animado y Dashboard Bento",
+  "version": "1.1.5",
+  "title": "Versión 1.1.5 - Desinstalador Total de VPN GlobalProtect y Limpieza Palo Alto Multi-Usuario",
   "releaseDate": "2026-11-10",
-  "description": "Unificación de carpeta oculta en Documentos (Documents\\Programa) para Windows 10 y 11 sin dejar carpetas visibles junto al ejecutable, fondo cósmico animado por GPU y Dashboard Bento.",
-  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.1.4/Programa.exe",
+  "description": "Nuevo módulo en Programas para desinstalar por completo GlobalProtect VPN y eliminar las carpetas residuales de Palo Alto Networks en todos los usuarios de Windows 10 y Windows 11.",
+  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.1.5/Programa.exe",
   "changelog": [
-    "Almacenamiento interno unificado en una única carpeta oculta dentro de Documentos (Documents\\Programa) en Windows 10 y Windows 11",
-    "Migración y limpieza automática de carpetas sueltas (data, config, cache, logs, temp, ProgramaData) junto al ejecutable",
-    "Fondo Espacial Animado por GPU (DirectX) con nebulosas difuminadas claras en movimiento y estrellas parallax (0% CPU)",
-    "Dashboard Bento 2x2 en Inicio con accesos directos a Office, Programas y Rendimiento",
-    "Corrección de Efectos Visuales en Windows 11 y Memoria Virtual Proporcional 1:1 según la RAM física instalada"
+    "Nuevo cuadro 'Desinstalar VPN (GlobalProtect + Palo Alto)' en la sección Programas",
+    "Desinstalación completa del paquete MSI de GlobalProtect y eliminación de servicios PanGPS/PanGPA y controladores",
+    "Eliminación automática de las carpetas 'Palo Alto Networks' en AppData\\Local, Roaming y LocalLow de TODOS los usuarios del equipo",
+    "Limpieza integral en Program Files, ProgramData y claves de registro (HKLM, HKCU y HKEY_USERS) compatible con Windows 10 y 11",
+    "Almacenamiento interno unificado en carpeta oculta en Documentos (Documents\\Programa) y Fondo Espacial Animado por GPU"
   ]
 }
