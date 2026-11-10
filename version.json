@@ -1,14 +1,14 @@
 {
-  "version": "1.1.5",
-  "title": "Versión 1.1.5 - Desinstalador Total de VPN GlobalProtect y Limpieza Palo Alto Multi-Usuario",
+  "version": "1.1.6",
+  "title": "Versión 1.1.6 - Avisos de Actualización No Intrusivos y Desinstalador VPN",
   "releaseDate": "2026-11-10",
-  "description": "Nuevo módulo en Programas para desinstalar por completo GlobalProtect VPN y eliminar las carpetas residuales de Palo Alto Networks en todos los usuarios de Windows 10 y Windows 11.",
-  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.1.5/Programa.exe",
+  "description": "Nueva experiencia con notificaciones flotantes discretas (Toast) para búsqueda de actualizaciones, junto a la desinstalación completa de GlobalProtect VPN y limpieza multi-usuario.",
+  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.1.6/Programa.exe",
   "changelog": [
-    "Nuevo cuadro 'Desinstalar VPN (GlobalProtect + Palo Alto)' en la sección Programas",
-    "Desinstalación completa del paquete MSI de GlobalProtect y eliminación de servicios PanGPS/PanGPA y controladores",
-    "Eliminación automática de las carpetas 'Palo Alto Networks' en AppData\\Local, Roaming y LocalLow de TODOS los usuarios del equipo",
-    "Limpieza integral en Program Files, ProgramData y claves de registro (HKLM, HKCU y HKEY_USERS) compatible con Windows 10 y 11",
-    "Almacenamiento interno unificado en carpeta oculta en Documentos (Documents\\Programa) y Fondo Espacial Animado por GPU"
+    "Avisos flotantes (Toast) compactos y no intrusivos al buscar actualizaciones con auto-cierre inteligente",
+    "Eliminación de diálogos y popups bloqueantes de Windows al verificar versión",
+    "Desinstalador completo de VPN GlobalProtect y limpieza de carpeta Palo Alto Networks en todos los perfiles de usuario (Win 10/11)",
+    "Botón a lo ancho completo sin iconos innecesarios y soporte para usuarios estándar y administradores",
+    "Fondo animado por GPU, almacenamiento unificado en Documentos y persistencia 100% portable"
   ]
 }
