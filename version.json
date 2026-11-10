@@ -1,16 +1,15 @@
 {
-  "version": "1.1.2",
-  "title": "Versión 1.1.2 - Nuevo Dashboard Bento de Inicio y Optimización Windows 11",
+  "version": "1.1.3",
+  "title": "Versión 1.1.3 - Fondo Espacial Animado GPU, Dashboard Bento y Optimización Win 11",
   "releaseDate": "2026-11-10",
-  "description": "Nuevo diseño Bento Dashboard interactivo en Inicio, insignia de Autor en la barra superior, corrección de efectos visuales en Windows 11 y memoria virtual proporcional 1:1.",
-  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.1.2/Programa.exe",
+  "description": "Nuevo fondo cósmico animado en GPU con movimiento difuminado claro y estrellas parallax (0 KB extra), Dashboard Bento interactivo en Inicio y optimizaciones Windows 10/11.",
+  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.1.3/Programa.exe",
   "changelog": [
+    "Nuevo Fondo Espacial Animado por GPU (DirectX) con 4 nebulosas difuminadas claras en movimiento continuo y 0% consumo de CPU",
+    "Capas Parallax de estrellas con halo difuminado y esferas bokeh cósmicas flotantes (compatible con Tema Oscuro y Claro)",
     "Nuevo Dashboard Bento 2x2 en Inicio con accesos directos a Office, Programas y Rendimiento",
-    "Cabecera ejecutiva con contadores KPI interactivos y Ruta de Puesta a Punto en 6 pasos clicables",
     "Insignia de Autor integrada directamente en la barra de navegación superior flotante (Dock)",
-    "Corrección de Efectos Visuales en Windows 11: sincronización de las 19 subclaves de registro y apagado de transparencias",
-    "Memoria Virtual Proporcional 1:1 según la RAM física real detectada (ej. 16 GB RAM = 16384 MB fijos)",
-    "Limpieza segura de temporales reales en Windows 10 y Windows 11 protegiendo Prefetch e Installer",
-    "Transiciones suaves entre pestañas y soporte completo para Modo Oscuro y Modo Claro"
+    "Corrección de Efectos Visuales en Windows 11 y Memoria Virtual Proporcional 1:1 según la RAM física instalada",
+    "Limpieza segura de temporales reales en Windows 10 y Windows 11 protegiendo Prefetch e Installer"
   ]
 }
