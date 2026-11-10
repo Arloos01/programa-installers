@@ -1,17 +1,16 @@
 {
-  "version": "1.1.1",
-  "title": "Versión 1.1.1 - Optimización Windows 11 y Memoria Virtual Proporcional",
-  "releaseDate": "2026-11-09",
-  "description": "Corrección completa de efectos visuales en Windows 11, asignación dinámica y proporcional de memoria virtual (1:1 de RAM), y limpieza segura de temporales.",
-  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.1.1/Programa.exe",
+  "version": "1.1.2",
+  "title": "Versión 1.1.2 - Nuevo Dashboard Bento de Inicio y Optimización Windows 11",
+  "releaseDate": "2026-11-10",
+  "description": "Nuevo diseño Bento Dashboard interactivo en Inicio, insignia de Autor en la barra superior, corrección de efectos visuales en Windows 11 y memoria virtual proporcional 1:1.",
+  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.1.2/Programa.exe",
   "changelog": [
-    "Corrección de Efectos Visuales en Windows 11: sincronización de subclaves Explorer VisualEffects (DefaultApplied/DefaultValue) y desactivación de transparencias nativas",
-    "Memoria Virtual Dinámica Proporcional: Asignación 1:1 de acuerdo a la memoria RAM real detectada (16 GB RAM = 16384 MB fijos, 8 GB RAM = 8192 MB fijos) en lugar de 4096 MB estáticos",
-    "Nueva tarjeta de Limpieza de Disco y Temporales Seguros en Rendimiento con soporte para Windows 10 y Windows 11",
-    "Resolución física nativa de carpetas reales de Windows omitiendo redirecciones locales de portabilidad",
-    "Doble fase de vaciado seguro: Modo directo de usuario y modo elevado en memoria para residuos de instaladores",
-    "Vaciado de caché de Windows Update deteniendo y reiniciando wuauserv limpiamente",
-    "Protección estricta de carpetas Prefetch e Installer y preservación de carpetas raíz maestras",
-    "Transición suave y fluida por desplazamiento entre secciones de la aplicación"
+    "Nuevo Dashboard Bento 2x2 en Inicio con accesos directos a Office, Programas y Rendimiento",
+    "Cabecera ejecutiva con contadores KPI interactivos y Ruta de Puesta a Punto en 6 pasos clicables",
+    "Insignia de Autor integrada directamente en la barra de navegación superior flotante (Dock)",
+    "Corrección de Efectos Visuales en Windows 11: sincronización de las 19 subclaves de registro y apagado de transparencias",
+    "Memoria Virtual Proporcional 1:1 según la RAM física real detectada (ej. 16 GB RAM = 16384 MB fijos)",
+    "Limpieza segura de temporales reales en Windows 10 y Windows 11 protegiendo Prefetch e Installer",
+    "Transiciones suaves entre pestañas y soporte completo para Modo Oscuro y Modo Claro"
   ]
 }
