@@ -1,15 +1,15 @@
 {
-  "version": "1.2.0",
-  "title": "Versión 1.2.0 - Nuevo Diseño Dark Minimalista y Órbita Luminosa",
+  "version": "1.2.1",
+  "title": "Versión 1.2.1 - Estética Classic Aesthetic y Micro-Animaciones Vivas",
   "releaseDate": "2026-11-13",
-  "description": "Rediseño visual integral: estética ultra-dark y minimalista, barra superior depurada y limpia, contorno curvado blanco luminoso con animación orbital al seleccionar o pasar el cursor, y reducción de curvas a un estilo moderno y elegante.",
-  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.2.0/Programa.exe",
+  "description": "Unificación cromática aesthetic: eliminación de cuadros blancos, paleta obsidian dark coherente sin saturación, dashboard Bento simplificado con estilo clásico limpio, y micro-animaciones elásticas táctiles con elevación y escala viva en botones y tarjetas.",
+  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.2.1/Programa.exe",
   "changelog": [
-    "Rediseño visual completo estilo Ultra-Dark & Minimalist (acabado obsidiana y grafito puro)",
-    "Efecto exclusivo de órbita blanca luminosa que recorre el contorno de las secciones al pasar el mouse o seleccionarlas",
-    "Barra superior (Dock) más limpia, delgada y minimalista, eliminando elementos sobrecargados",
-    "Optimización de esquinas redondeadas (de 18-25px a 8-12px) para un acabado estético más sobrio y profesional",
-    "Fondo animado espacial redefinido con brumas estelares sutiles en titanio y plata (cero azules saturados)",
-    "Bordes de tarjetas y botones con resplandor blanco luminoso en lugar de azul"
+    "Corrección de botones blancos: diseño dark slate obsidiana con texto blanco nítido y resplandor luminoso.",
+    "Unificación visual de tarjetas: cajas de iconos y badges en cristal grafito/titanio sin mezclas de colores saturados.",
+    "Dashboard Bento clásico y aesthetic: eliminación de párrafos densos, sustituidos por listas limpias y espaciosas.",
+    "Micro-animación elástica viva en botones: elevación física, escala al pasar el cursor y respuesta táctil al clic.",
+    "Elevación suave al pasar el cursor sobre tarjetas de módulos y Bento.",
+    "Indicadores de estado sutiles en plata y menta suave."
   ]
 }
