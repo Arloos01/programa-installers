@@ -1,15 +1,15 @@
 {
-  "version": "1.2.1",
-  "title": "Versión 1.2.1 - Estética Classic Aesthetic y Micro-Animaciones Vivas",
+  "version": "1.2.2",
+  "title": "Versión 1.2.2 - Iconos Vectoriales Exclusivos y Diferenciados",
   "releaseDate": "2026-11-13",
-  "description": "Unificación cromática aesthetic: eliminación de cuadros blancos, paleta obsidian dark coherente sin saturación, dashboard Bento simplificado con estilo clásico limpio, y micro-animaciones elásticas táctiles con elevación y escala viva en botones y tarjetas.",
-  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.2.1/Programa.exe",
+  "description": "Rediseño completo de iconos vectoriales para software esencial: eliminación de duplicidad genérica y creación de identidades auténticas para Adobe Acrobat, PDF24 Creator, PDFCreator e Impresora Virtual, y Ajustar Particiones de Disco.",
+  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.2.2/Programa.exe",
   "changelog": [
-    "Corrección de botones blancos: diseño dark slate obsidiana con texto blanco nítido y resplandor luminoso.",
-    "Unificación visual de tarjetas: cajas de iconos y badges en cristal grafito/titanio sin mezclas de colores saturados.",
-    "Dashboard Bento clásico y aesthetic: eliminación de párrafos densos, sustituidos por listas limpias y espaciosas.",
-    "Micro-animación elástica viva en botones: elevación física, escala al pasar el cursor y respuesta táctil al clic.",
-    "Elevación suave al pasar el cursor sobre tarjetas de módulos y Bento.",
-    "Indicadores de estado sutiles en plata y menta suave."
+    "Adobe Acrobat Reader: Nuevo icono con el lazo/ribbon oficial estilizado en vector de alta fidelidad.",
+    "PDF24 Creator: Documento técnico con grabado nítido '24' que preserva su esencia e identidad reconocible.",
+    "PDFCreator: Nueva impresora virtual moderna en vector con bandeja de alimentación y salida de hoja.",
+    "Ajustar Particiones: Unidad de almacenamiento segmentada en volúmenes lógicos con flecha de redimensión bidireccional.",
+    "Cero repetición visual: cada aplicación cuenta ahora con su silueta geométrica única y distintiva.",
+    "Preservación total de la estética dark obsidian y minimalista con iconos en blanco puro sobre cristal grafito."
   ]
 }
