@@ -1,15 +1,15 @@
 {
-  "version": "1.1.9",
-  "title": "Versión 1.1.9 - Renombrado a Configuración y Optimización de Navegación",
+  "version": "1.2.0",
+  "title": "Versión 1.2.0 - Nuevo Diseño Dark Minimalista y Órbita Luminosa",
   "releaseDate": "2026-11-13",
-  "description": "Se actualizó la sección de herramientas y conectividad pasando a llamarse 'Configuración', con nuevo icono de ajustes y sincronización de contadores e interfaz.",
-  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.1.9/Programa.exe",
+  "description": "Rediseño visual integral: estética ultra-dark y minimalista, barra superior depurada y limpia, contorno curvado blanco luminoso con animación orbital al seleccionar o pasar el cursor, y reducción de curvas a un estilo moderno y elegante.",
+  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.2.0/Programa.exe",
   "changelog": [
-    "Renombrada la sección 'Programas' a 'Configuración' en el dock de navegación superior",
-    "Nuevo icono de engranaje (Settings) para la pestaña de Configuración",
-    "Actualización del indicador KPI en el Hero Banner a '12 Configuración'",
-    "Tarjeta Bento actualizada a 'Herramientas y Configuración' con acceso directo 'Abrir Configuración ➔'",
-    "Soporte bidireccional y preservación de orden en configuracion_order.json",
-    "Compatibilidad con argumentos y navegación fluida entre pestañas"
+    "Rediseño visual completo estilo Ultra-Dark & Minimalist (acabado obsidiana y grafito puro)",
+    "Efecto exclusivo de órbita blanca luminosa que recorre el contorno de las secciones al pasar el mouse o seleccionarlas",
+    "Barra superior (Dock) más limpia, delgada y minimalista, eliminando elementos sobrecargados",
+    "Optimización de esquinas redondeadas (de 18-25px a 8-12px) para un acabado estético más sobrio y profesional",
+    "Fondo animado espacial redefinido con brumas estelares sutiles en titanio y plata (cero azules saturados)",
+    "Bordes de tarjetas y botones con resplandor blanco luminoso en lugar de azul"
   ]
 }
