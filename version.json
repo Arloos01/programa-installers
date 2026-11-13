@@ -1,15 +1,15 @@
 {
-  "version": "1.1.8",
-  "title": "Versión 1.1.8 - Visualizador Detallado de Novedades y Cambios en Actualizaciones",
+  "version": "1.1.9",
+  "title": "Versión 1.1.9 - Renombrado a Configuración y Optimización de Navegación",
   "releaseDate": "2026-11-13",
-  "description": "Ahora las notificaciones y la ventana de actualización muestran exactamente la lista de novedades y características añadidas en cada versión, con diseño moderno e interactivo.",
-  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.1.8/Programa.exe",
+  "description": "Se actualizó la sección de herramientas y conectividad pasando a llamarse 'Configuración', con nuevo icono de ajustes y sincronización de contadores e interfaz.",
+  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.1.9/Programa.exe",
   "changelog": [
-    "Visualización directa de novedades en el aviso flotante (Toast) destacando las funciones recién añadidas",
-    "Ventana modal renovada con tarjetas individuales y verificación verde para cada mejora y cambio",
-    "Motor inteligente de extracción de changelog desde version.json y Releases oficiales de GitHub",
-    "Botón 'Ver qué trae esta versión' al consultar actualizaciones para revisar siempre las características instaladas",
-    "Nueva herramienta 'Uso Compartido' en Programas (Detección de redes y Archivos e impresoras para Dominio, Privado y Público)",
-    "Portabilidad 100% y fondo espacial animado proceduralmente en GPU con DirectX"
+    "Renombrada la sección 'Programas' a 'Configuración' en el dock de navegación superior",
+    "Nuevo icono de engranaje (Settings) para la pestaña de Configuración",
+    "Actualización del indicador KPI en el Hero Banner a '12 Configuración'",
+    "Tarjeta Bento actualizada a 'Herramientas y Configuración' con acceso directo 'Abrir Configuración ➔'",
+    "Soporte bidireccional y preservación de orden en configuracion_order.json",
+    "Compatibilidad con argumentos y navegación fluida entre pestañas"
   ]
 }
