@@ -1,15 +1,15 @@
 {
-  "version": "1.1.7",
-  "title": "Versión 1.1.7 - Uso Compartido Avanzado en Red (Dominio, Privado y Público)",
+  "version": "1.1.8",
+  "title": "Versión 1.1.8 - Visualizador Detallado de Novedades y Cambios en Actualizaciones",
   "releaseDate": "2026-11-13",
-  "description": "Nueva tarjeta en la sección Programas para activar Detección de redes y Compartir archivos e impresoras en Dominio, Privado y Público sin tocar 'Todas las redes', con atajo directo al Panel de Control.",
-  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.1.7/Programa.exe",
+  "description": "Ahora las notificaciones y la ventana de actualización muestran exactamente la lista de novedades y características añadidas en cada versión, con diseño moderno e interactivo.",
+  "downloadUrl": "https://github.com/Arloos01/programa-installers/releases/download/v1.1.8/Programa.exe",
   "changelog": [
-    "Nueva tarjeta 'Uso Compartido' en Programas: activa en 1 clic la Detección de redes y el Uso compartido de archivos e impresoras",
-    "Habilitación automática y simultánea en perfiles de Dominio, Privado e Invitado o público respetando intacta la sección 'Todas las redes'",
-    "Comprobación en tiempo real del estado de red local mediante API nativa HNetCfg.FwPolicy2 y arranque de servicios base",
-    "Botón directo con icono de controles para abrir la ventana exacta de 'Configuración de uso compartido avanzado' del Panel de Control",
-    "Contador global actualizado a 12 utilidades en la sección Programas y Dashboard Bento de Inicio",
-    "Almacenamiento portable unificado en Documents\\Programa y fondo animado procedural por GPU"
+    "Visualización directa de novedades en el aviso flotante (Toast) destacando las funciones recién añadidas",
+    "Ventana modal renovada con tarjetas individuales y verificación verde para cada mejora y cambio",
+    "Motor inteligente de extracción de changelog desde version.json y Releases oficiales de GitHub",
+    "Botón 'Ver qué trae esta versión' al consultar actualizaciones para revisar siempre las características instaladas",
+    "Nueva herramienta 'Uso Compartido' en Programas (Detección de redes y Archivos e impresoras para Dominio, Privado y Público)",
+    "Portabilidad 100% y fondo espacial animado proceduralmente en GPU con DirectX"
   ]
 }
